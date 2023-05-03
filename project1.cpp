@@ -1,7 +1,7 @@
 // Hello everyone! It is our first project from oop so i hope everyone will do its best!
 // Good luck!
 
-// Tem members:
+// Team members:
 // Sardor
 // Nodira
 // E'zoza
